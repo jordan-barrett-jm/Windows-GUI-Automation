@@ -1,3 +1,11 @@
 # Windows-GUI-Automation
 Using the pyautogui library to automate some tasks in Windows
-![Alt Text](https://media.giphy.com/media/1lzgOQ0zwLbeaP0vei/giphy.gif)
+
+# Demo
+This is a demo of me launching the "Gaming" mood haha
+
+
+
+https://user-images.githubusercontent.com/37257304/128094872-474a8015-017c-4b73-9242-7570fdd7122e.mp4
+
+
